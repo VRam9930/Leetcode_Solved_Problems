@@ -4,7 +4,7 @@ class Solution(object):
         :type arr: List[int]
         :type mat: List[List[int]]
         :rtype: int
-        """
+        """2661. First Completely Painted Row or Column
         m =len(mat)
         n = len(mat[0])
         pos_map = {}
